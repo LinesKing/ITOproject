@@ -8,8 +8,11 @@ This project focuses on developing an MPC (Model Predictive Control) based path 
 This project was developed by Lei Qin under the guidance of Ye Pu.
 
 ## GIFs and Visualizations
+# Task2 Follow the centre path
 ![Task2_Question3](Task2_Question3_Sol.gif)
+# Task3 Follow the centre path and avoid cross the boundary
 ![Task3_Question4](Task3_Question4_Sol.gif)
+# Task5 Plan the path considering obstacles and follow the new path
 ![Task5](Task5_Sol.gif)
 
 ## Acknowledgments
