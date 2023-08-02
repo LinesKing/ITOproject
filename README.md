@@ -1,4 +1,4 @@
-# ITOproject.github.io
+# MPC-BASED PATH PLANNING AND FOLLOWING FOR AUTONOMOUS VEHICLES
 Welcome to the MPC-Based Path Planning and Following project for ELEN90026 Introduction to Optimisation.
 
 ## Project Description
